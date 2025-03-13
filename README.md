@@ -2,6 +2,9 @@
 ## 1. Introduction
 ### Project Title: Smart Traffic Signals  
 Description: A dynamic traffic management system designed to optimize traffic flow, reduce congestion, and enhance safety by integrating real-time data and AI-driven predictive analytics.
+## Structure
+![Alt Text](https://github.com/Ahsanbaloch/KI_Hackathon_-Wolfsburg/blob/main/assets/1.png)
+
 ## 2. Table Contents
 - [About the Project](#about-the-project)
 - [Features](#features)
