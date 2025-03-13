@@ -6,12 +6,12 @@ Description: A dynamic traffic management system designed to optimize traffic fl
 ![Alt Text](https://github.com/Ahsanbaloch/KI_Hackathon_-Wolfsburg/blob/main/assets/1.png)
 
 ## 2. Table Contents
-- [About the Project](#about-the-project)
-- [Features](#features)
-- [Usage](#usage)
-- [Roadmap](#roadmap)
-- [Contributing](#contributing)
-- [References](#references)
+- About the Project
+- Features
+- Usage
+- Roadmap
+- Contributing
+- References
 ## 3. About the Project
 This project aims to revolutionize urban traffic management by developing an intelligent system that adjusts traffic signal timings based on real-time traffic conditions, pedestrian activity, and emergency vehicle priority. It utilizes advanced sensors and AI algorithms to predict traffic patterns and optimize flow.
 ## 4. Features
