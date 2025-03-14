@@ -27,5 +27,5 @@ The system can be used by city planners to optimize traffic flow and reduce cong
 - Phase 3: Integrate with public transit systems.
 
 ## 7. References
-Dashboard was taken from here
+Dashboard
 [Mantis](https://themewagon.com/themes/mantis/)
